@@ -1,1 +1,1 @@
-Jupiter file for a Cousera q IBM course
+Jupiter file for a Cousera and IBM course
